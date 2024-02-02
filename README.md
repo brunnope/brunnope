@@ -2,6 +2,11 @@
   <h1>Olá! Eu sou Brunno Pereira ✌️</h1>
 </div>
 <hr>
+<p>-👨🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas(ADS) - IFPB <br>
+-💻 Desenvolvedor Backend e Analista de Dados <br>
+- 🏆AWS Certified Cloud Practitioner CLF-C02
+</p>
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunnope&show_icons=true&theme=tokyonight" alt="Brunnope GitHub stats" width="400">
