@@ -3,8 +3,9 @@
 </div>
 <hr>
 <p>-👨🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas(ADS) - IFPB <br>
--💻 Desenvolvedor Backend e Analista de Dados <br>
+-💻 Desenvolvedor Backend e Analista/Engenheiro de Dados <br>
 -🏆AWS Certified Cloud Practitioner CLF-C02
+-🏆AWS Certified AI Practitioner 
 </p>
 <hr>
 
